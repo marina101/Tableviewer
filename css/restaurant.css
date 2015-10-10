@@ -76,6 +76,9 @@ body {
     a:hover {
       text-decoration: none; 
       }
+     a:link {
+       text-decoration: none;
+     }
 
 .profilepic {
     width: 100px;

@@ -1,0 +1,13 @@
+.background {
+	background-image: url('../img/tablebgrd.jpg');
+    border-bottom: 0.5px solid grey;
+    border-top: 0.5px solid grey;
+    text-shadow: 1px 1px black;
+    z-index: -1000;
+    height: 100%;
+   
+}
+
+tbuttons {
+    text-align: center;
+}
