@@ -1,0 +1,38 @@
+
+#Menu{
+	padding:100px 0;
+	background-image:url(../image/backMenu.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+}
+.topic{
+	font-family:"Open Sans";
+	color:#FFF;
+	text-align:center;
+	background-color:rgba(255,255,255,0.4);
+}
+.content{
+	padding:0 200px;
+	background-color:rgba(255,255,255,0.8);
+	margin:40px 0;
+}
+.pic{
+	width:100%;
+	padding:30px;
+}
+#FoodTopic{
+	font-family:"Open Sans";
+	color:#696969;
+	font-size:20px;
+	padding:30px 0 0;
+}
+#FoodSubTopic{
+	font-family:"Open Sans";
+	color:#FFF;
+	font-size:16px;
+	color:#696969;
+	padding:30px 0 0;
+}
+#FoodSubTopic div{
+	padding:5px 0;
+}

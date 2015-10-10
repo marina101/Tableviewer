@@ -1,3 +1,4 @@
+
 html {
     margin: 0; 
     }
@@ -46,8 +47,6 @@ body {
       background-color: transparent; 
       }
   .navbar .container {
-      margin-top: 10px;
-      margin-bottom: 10px;
       -webkit-transition: margin .2s ease-in-out;
       -moz-transition: margin .2s ease-in-out;
       transition: margin .2s ease-in-out; 
@@ -77,6 +76,9 @@ body {
     
     a:hover {
       text-decoration: none; 
+<<<<<<< HEAD
+      }
+=======
       }
 
 .profilepic {
@@ -200,3 +202,4 @@ body {
     margin: 10px;
   }
 }
+>>>>>>> 86eb516098ca297cbab839b7bbe80eeb8965e7be
