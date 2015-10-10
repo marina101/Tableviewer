@@ -93,7 +93,7 @@ body {
     border-bottom: 0.5px solid grey;
     border-top: 0.5px solid grey;
     text-shadow: 1px 1px black;
-    background-image: url('../img/montreal.jpg');
+    background-image: url('../img/restaurant.jpeg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -138,6 +138,20 @@ body {
   border-radius: 2px;
 }
 
+.btn-group {
+  position: relative;
+  margin-top: 125px;
+}
+
+.btn {
+  width: 200px;
+  height: 80px;
+  font-size: 15pt;
+  background-color: maroon;
+  border-color: white;
+  color: white;
+  font-weight: bold;
+}
 
 /* SCREEN SIZE RESPONSIVENESS */
 @media (max-width: 978px) {
